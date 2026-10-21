@@ -59,5 +59,4 @@ Opening `index.html` directly also works, but the current location feature may b
 - Dark/light mode button
 
 ## Author
-
-Your Name
+Khizer Ahmed
